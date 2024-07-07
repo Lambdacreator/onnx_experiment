@@ -8,7 +8,7 @@ import os
 
 
 from .utils import execute_graph
-from .custom_backend import operator_map  # Ensure this is the correct import
+from .custom_backend import operator_map 
 
 class GameOfLife(DynamicModel):
     def __init__(self, input_map, output_map, model_path, model_type):

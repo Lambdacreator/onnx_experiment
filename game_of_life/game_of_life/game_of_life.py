@@ -152,5 +152,5 @@ def simulate_process(input_map, output_map, model_type, model_path, time_step=5)
 
 # Example call to the function
 if __name__ == "__main__":
-    simulate_process('alive.map', 'result', 'backend', 'gof_final.onnx', 100)
+    simulate_process('alive.map', 'result', 'backend', 'game_of_life.onnx', 100)
 
