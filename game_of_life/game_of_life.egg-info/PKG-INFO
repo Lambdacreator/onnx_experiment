@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: game_of_life
-Version: 0.1
-Requires-Dist: numpy
-Requires-Dist: onnx
-Requires-Dist: onnxruntime
-Requires-Dist: matplotlib
